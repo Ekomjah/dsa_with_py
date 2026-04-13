@@ -1,4 +1,5 @@
 # watcher.py
+# example usage: python3 watcher.py quicksort.py
 import subprocess
 import sys
 from watchdog.observers import Observer
